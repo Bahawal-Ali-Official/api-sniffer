@@ -2,9 +2,9 @@
 
 API Sniffer is a browser-based API testing and security toolkit for developers and pentesters to capture, inspect, and automate network requests directly inside Google Chrome.
 
-Official Website: https://sniffer.bahawal.top/
-Chrome Web Store: https://chromewebstore.google.com/detail/api-sniffer-endpoint-dete/npgapjgfmmkkaefnbidihgheohllmjih
-SourceForge: https://sourceforge.net/projects/api-sniffer/
+* Official Website: https://sniffer.bahawal.top/
+* Chrome Web Store: https://chromewebstore.google.com/detail/api-sniffer-endpoint-dete/npgapjgfmmkkaefnbidihgheohllmjih
+* SourceForge: https://sourceforge.net/projects/api-sniffer/
 
 ## Features
 
